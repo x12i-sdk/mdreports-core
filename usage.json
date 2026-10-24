@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/mdreports-core",
+  "packageVersion": "0.4.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/mdreports-core",
+  "usageRepository": "https://github.com/x12i-sdk/mdreports-core",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Render local Markdown with a bundled report template",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:45:53.549525+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "0c151b139d1669a95dcc35b831b59f5456d2c6afa16ca1822f50c4c6f91a4d98",
+    "manifestSha256": "a162dfff404b747f7da0d4ed81f692729e2d18af694bdb33475f8baea0e4d459"
+  },
+  "validationFiles": {
+    "src/index.mjs": "0c151b139d1669a95dcc35b831b59f5456d2c6afa16ca1822f50c4c6f91a4d98"
+  }
+}

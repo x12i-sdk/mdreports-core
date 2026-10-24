@@ -1,0 +1,23 @@
+{
+  "name": "mdreports-core-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/mdreports-core: render local markdown with a bundled report template.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/mdreports-core": "0.4.0",
+    "@x12i/mdreports-templates": "0.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/mdreports-core.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/mdreports-core"
+}
